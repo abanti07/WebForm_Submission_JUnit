@@ -12,7 +12,7 @@
 
 ## How to run this project
 - Clone this project
-- write the command gradle clean test on terminal
+- write the command 'gradle clean test' on terminal
 
 ## Reports
 ![Report](https://github.com/abanti07/WebForm_Submission_JUnit/assets/143074304/d815f000-10d9-4e2d-ad38-587818fc90ed)
